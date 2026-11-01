@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Three bars, work / rest / bag, like the interval ladder -->
+    <path android:fillColor="#FFE5484D" android:pathData="M34,34h40v10h-40z" />
+    <path android:fillColor="#FF2FB38F" android:pathData="M34,49h28v10h-28z" />
+    <path android:fillColor="#FFF2A531" android:pathData="M34,64h16v10h-16z" />
+</vector>
